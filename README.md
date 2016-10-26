@@ -4,17 +4,13 @@
  
  
 ## Installation
-
-Require the package in your `composer.json`:
-
-Installation
-
+ 
 You can install this package by simply run this composer command:
 ```consol
 composer require artwinpro/laravel-search
 ```
  
-or add this in composer.json
+Or require the package in your `composer.json`:
 ```json
 "artwinpro/laravel-search": "dev-master"
 ```
