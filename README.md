@@ -42,7 +42,7 @@ class Posts extends Model
 
 And use:
 ```php
- $posts = Posts::search()->get(); // Get all users from the database witch search params 
+ $posts = Posts::search()->get(); // Get searched posts from the database.
  ```
 
 Request:
