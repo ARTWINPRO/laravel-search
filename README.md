@@ -1,5 +1,5 @@
-# Laravel Tables
-[![Made for Laravel 5](https://img.shields.io/badge/laravel-5.0-red.svg)](http://laravel.com/)
+# Laravel Search
+[![Made for Laravel 5](https://img.shields.io/badge/laravel-5.*-red.svg)](http://laravel.com/) 
 [![Latest Tag](https://img.shields.io/github/release/ARTWINPRO/laravel-search.svg)](https://github.com/ARTWINPRO/laravel-search/releases)
  
  
