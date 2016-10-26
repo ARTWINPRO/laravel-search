@@ -1,0 +1,17 @@
+{
+  "name": "artwinpro/laravel-search",
+  "description": "Simple App\Model::search() for laravel 5.",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Artwin Pro",
+      "email": "admin@artwin.pro"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
