@@ -1,17 +1,23 @@
 {
   "name": "artwinpro/laravel-search",
   "description": "Simple search for laravel 5.",
+  "keywords": ["laravel", "search", "laravel-search", "filter"],
   "license": "proprietary",
   "authors": [
     {
       "name": "Artwin Pro",
-      "email": "admin@artwin.pro"
+      "email": "admin@artwin.pro",
+      "homepage": "http://artwin.pro",
+      "role": "Developer"
     }
   ],
   "require": {
-    "php": ">=5.4.0"
+    "php": ">=5.5.9",
+    "laravel/framework": "5.1.*|5.2.*|5.3.*"
   },
   "autoload": {
-    "classmap": ["src"]
+    "psr-4": {
+      "Artwinpro\\LaravelSearch\\": "src/"
+    }
   }
 }
