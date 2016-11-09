@@ -7,7 +7,7 @@
  */
 namespace Artwinpro\LaravelSearch;
 
-use Input;
+use Illuminate\Support\Facades\Input;
 
 trait SearchTrait
 {
